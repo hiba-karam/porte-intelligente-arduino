@@ -38,5 +38,5 @@ Le programme utilise une machine à états pour gérer les différents modes de 
 * Servo.h
 
 ## Auteurs
-Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
+Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
 Les initiales "KH & ST" s'affichent au démarrage du système sur l'écran LCD.
