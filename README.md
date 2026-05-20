@@ -3,7 +3,7 @@
 ## À propos
 Ce projet est un système de contrôle d'accès autonome basé sur Arduino. Il pilote un servomoteur pour verrouiller ou déverrouiller une porte suite à la saisie d'un code PIN sur un clavier matriciel. Le système intègre une interface utilisateur via un écran LCD et un retour sonore.
 
-## Fonctionnalités Principales
+## Fonctionnalités 
 * Authentification sécurisée : Saisie d'un code PIN à 4 chiffres pour ouvrir la porte.
 * Verrouillage Automatique : La porte se referme automatiquement après 5 secondes d'inactivité.
 * Système de Menu : Interface permettant de changer le code, fermer la porte manuellement ou consulter l'aide.
