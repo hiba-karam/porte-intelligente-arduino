@@ -21,5 +21,5 @@ Ce projet est un système de contrôle d'accès autonome basé sur Arduino. Il p
 * **Structure du Code :** Le programme utilise une machine à états pour gérer les différents modes de fonctionnement : Mode Normal : Attente de saisie de code. Mode Menu : Navigation entre les options. Mode Modification : Processus de changement et confirmation du nouveau code. Mode Aide : Affichage des touches de navigation.
 * **Bibliothèques Requises :** Keypad.h, LiquidCrystal_I2C.h, Servo.h
 
-## Auteur(s)
+## Auteurs
 Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI. Les initiales "KH & ST" s'affichent au démarrage du système sur l'écran LCD.
